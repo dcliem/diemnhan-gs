@@ -12,4 +12,4 @@ This file adds functions to the theme.
 
 @version 1.5.2
 
-@public
+@public everyone
